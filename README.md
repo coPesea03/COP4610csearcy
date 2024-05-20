@@ -9,4 +9,6 @@ In this course, our 3 projects (and grade recieved) were:
 - **Project 2:** Elevator Kernel Module (A+)
 - **Project 3:** FAT32 File System (C+)
 
+These projects were developed in C.
+
 In the end I recieved a B+ for the course. 
